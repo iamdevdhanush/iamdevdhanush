@@ -49,10 +49,22 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="./github_stats.png" width="600">
-</p>
+## 📈 My GitHub Stats
+
+| <img src="https://github-readme-stats.vercel.app/api?username=iamdevdhanush&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdevdhanush&theme=blueberry_duo"/> |
+| --- | --- |
+
+| <img src="https://github-profile-trophy.vercel.app/?username=iamdevdhanush&theme=darkhub&column=9" alt="GitHub Trophy"> |
+| --- |
+| ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=iamdevdhanush&theme=react-dark) |
+
+## 🐱‍💻 Hacktober badges
+[ ![@iamdevdhanush's Holopin board](https://holopin.me/iamdevdhanush) ](https://holopin.io/@iamdevdhanush) 
+
+<!-- Snake Game -->
+<div align ="center">
+  <img src="https://raw.githubusercontent.com/iamdevdhanush/iamdevdhanush/output/github-snake-dark.svg" alt="Snake Game" title="GitHub Snake Game - watch my contributions!" >
+</div>
 
 ---
 
@@ -65,8 +77,8 @@
 ---
 
 ## 🤝 Connect with Me
-📌 **GitHub:** [iamdevdhanush](https://github.com/iamdevdhanush)
-📌 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-📌 **Twitter:** [Your Twitter](https://twitter.com/yourhandle)
+📌 **GitHub:** [iamdevdhanush](https://github.com/iamdevdhanush)  
+📌 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+📌 **Twitter:** [Your Twitter](https://twitter.com/yourhandle)  
 
 ⭐ *If you like my work, consider giving a star!*  
