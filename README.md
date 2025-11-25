@@ -20,7 +20,7 @@
 ![C](https://img.shields.io/badge/C-17202A?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1F618D?style=for-the-badge)
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -54,7 +54,6 @@
   <img src="./github_stats.png" width="600">
 </p>
 
-
 ---
 
 ## 🎯 Goals for 2025
@@ -67,5 +66,7 @@
 
 ## 🤝 Connect with Me
 📌 **GitHub:** [iamdevdhanush](https://github.com/iamdevdhanush)
+📌 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+📌 **Twitter:** [Your Twitter](https://twitter.com/yourhandle)
 
-⭐ *If you like my work, consider giving a star!*
+⭐ *If you like my work, consider giving a star!*  
