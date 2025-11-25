@@ -51,9 +51,9 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamdevdhanush&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevdhanush&layout=compact&theme=tokyonight" height="165" />
+  <img src="./github_stats.png" width="600">
 </p>
+
 
 ---
 
