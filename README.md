@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Dhanush</h1>
+<h1 align="center">⚙️ Dhanush D Prabhu</h1>
 <h3 align="center">DevOps • Automation • Systems</h3>
 
 <p align="center">
