@@ -1,94 +1,84 @@
-<h2 align="center">⚙️ DevOps Journey — 2026</h2>
+<h1 align="center">⚙️ Dhanush</h1>
+<h3 align="center">DevOps • Automation • Systems</h3>
 
 <p align="center">
-Building reliable systems through automation, failures, and daily practice.
+  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+in+Public;Automate+Everything;Break+Systems+Fix+Them;No+Zero+Days+in+2026&center=true&width=550&height=45">
 </p>
 
 <p align="center">
-<b>No hype. No shortcuts. Just consistency.</b>
+Building reliable systems through daily practice, failures, and automation.
 </p>
 
 ---
 
-## 🧭 What I'm Doing in 2026
-- 📌 Contributing on GitHub **every day**
-- 📌 Learning DevOps by **breaking and fixing real systems**
-- 📌 Focusing on fundamentals before scale
-- 📌 Documenting everything I learn (including mistakes)
-
-This profile is a **work log**, not a highlight reel.
+## 🧠 2026 Mission
+<table>
+<tr>
+<td>🔥</td><td>Daily GitHub contributions (365/365)</td>
+</tr>
+<tr>
+<td>🛠️</td><td>DevOps learning by breaking & fixing real systems</td>
+</tr>
+<tr>
+<td>⚙️</td><td>Automation-first mindset</td>
+</tr>
+<tr>
+<td>📊</td><td>Observability > Guessing</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧰 Tech Arsenal
 
-### ⚙️ Systems & Core
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-</p>
-
-### 🔁 Version Control
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</p>
-
-### 🚦 CI/CD
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
-</p>
-
-### 📦 Containers & Orchestration
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-</p>
-
-### ☁️ Cloud & Infrastructure
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
-</p>
-
-### 📊 Observability
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,githubactions,docker,kubernetes,aws,terraform,prometheus,grafana&theme=dark" />
 </p>
 
 ---
 
-## 🧠 DevOps Mindset
-- Logs over guessing  
-- Automation over repetition  
-- Monitoring over assumptions  
-- Simple systems over clever ones  
+## 🚦 What This GitHub Is
+<table>
+<tr>
+<td>✅</td><td>DevOps labs & experiments</td>
+</tr>
+<tr>
+<td>✅</td><td>CI/CD pipelines & YAMLs</td>
+</tr>
+<tr>
+<td>✅</td><td>Docker & Kubernetes practice</td>
+</tr>
+<tr>
+<td>✅</td><td>Automation scripts</td>
+</tr>
+<tr>
+<td>❌</td><td>Tutorial copy-paste repos</td>
+</tr>
+</table>
 
 ---
 
-## 📂 What You’ll Find Here
-- DevOps labs & experiments  
-- CI/CD pipelines (YAMLs)  
-- Dockerfiles & infra drafts  
-- Automation scripts  
-- Incident notes (what broke & why)
-
-Progress > polish.
+## 📈 Current Focus (Live)
+- Linux internals & process behavior  
+- Shell scripting for automation  
+- GitHub Actions pipelines  
+- Docker fundamentals  
+- Cloud basics (AWS – free tier)  
 
 ---
 
-## 🧱 Rules I Don’t Break
+## 🧱 Non-Negotiables
 - ❌ No zero days  
 - ❌ No fake commits  
-- ❌ No copy-paste learning  
-- ✅ One improvement every day  
+- ❌ No tool logos without usage  
+- ✅ One real improvement every day  
 
 ---
 
 <p align="center">
-<i>Not trying to look impressive.<br>
-Trying to be reliable in production.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamdevdhanush&show_icons=true&hide_border=true&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+<i>Trying to be reliable in production — not impressive on paper.</i>
 </p>
