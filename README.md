@@ -1,57 +1,100 @@
-# Dhanush
+<h2 align="center">⚙️ DevOps Journey — 2026</h2>
 
-DevOps-focused learner building reliability through practice, not hype.
+<p align="center">
+Building reliable systems through automation, failures, and daily practice.
+</p>
 
----
-
-## What I'm Doing
-I’m spending 2026 doing one thing consistently:
-**building, breaking, fixing, and automating systems in public.**
-
-This GitHub is a logbook, not a portfolio showcase.
+<p align="center">
+<b>No hype. No shortcuts. Just consistency.</b>
+</p>
 
 ---
 
-## Current Focus
-- Linux internals & system behavior
-- Shell scripting and automation
-- Git & GitHub workflows
-- CI/CD with GitHub Actions
+## 🧭 What I'm Doing in 2026
+
+- 📌 Contributing on GitHub **every day**
+- 📌 Learning DevOps by **breaking and fixing real systems**
+- 📌 Focusing on fundamentals before scale
+- 📌 Documenting everything I learn (including mistakes)
+
+This profile is a **work log**, not a highlight reel.
+
+---
+
+## 🧠 DevOps Mindset
+
+- Logs over guessing  
+- Automation over repetition  
+- Monitoring over assumptions  
+- Simple systems over clever ones  
+
+If a system didn’t fail, I didn’t push it far enough.
+
+---
+
+## 🛠️ Tech Stack (Growing, Not Pretending)
+
+### ⚙️ Systems & Core
+- Linux (Ubuntu)
+- Bash / Shell scripting
+- Networking fundamentals
+
+### 🔁 Version Control
+- Git
+- GitHub (PRs, Issues, Projects)
+
+### 🚦 CI/CD
+- GitHub Actions
+- Jenkins (learning)
+
+### 📦 Containers
+- Docker
+- Docker Compose
+- Kubernetes (learning phase)
+
+### ☁️ Cloud & Infra
+- AWS (EC2, IAM, S3 – Free Tier)
+- Terraform (upcoming)
+
+### 📊 Observability
+- Linux logs
+- Prometheus (learning)
+- Grafana (learning)
+
+---
+
+## 📂 What You’ll Find Here
+
+- DevOps labs & experiments
+- CI/CD pipelines (YAMLs)
+- Dockerfiles & infra drafts
+- Automation scripts
+- Incident notes (what broke & why)
+
+Everything here is **earned**, not copied.
+
+---
+
+## 📈 Current Focus
+
+- Linux internals
+- Shell automation
+- GitHub Actions pipelines
 - Docker fundamentals
-- Cloud basics (AWS – free tier)
-- Monitoring & logs (early stage)
+- Cloud basics
 
 ---
 
-## How I Work
-- I break systems on purpose
-- I read logs before Googling
-- I automate before repeating
-- I document failures and fixes
-- I commit daily — no zero days
+## 🧱 Rules I Don’t Break
 
-If it’s not reproducible, it’s not learning.
+- ❌ No zero days  
+- ❌ No fake commits  
+- ❌ No copy-paste learning  
+- ✅ One improvement every day  
 
 ---
 
-## What You'll Find Here
-- Small, focused DevOps experiments
-- CI/CD pipelines and configs
-- Dockerfiles and infra drafts
-- Scripts that remove manual work
-- Mistakes with written post-mortems
-
-Progress > polish.
-
----
-
-## Principles
-- Consistency beats motivation
-- Simple systems scale better
-- Automation is respect for time
-- Monitoring is not optional
-
----
-
-I’m not here to look impressive.  
-I’m here to become **useful in production environments**.
+<p align="center">
+<i>Not trying to look impressive.<br>
+Trying to be reliable in production.</i>
+</p>
