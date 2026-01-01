@@ -1,84 +1,52 @@
-<h1 align="center">⚙️ Dhanush D Prabhu</h1>
-<h3 align="center">DevOps • Automation • Systems</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+in+Public;Automate+Everything;Break+Systems+Fix+Them;No+Zero+Days+in+2026&center=true&width=550&height=45">
-</p>
-
-<p align="center">
-Building reliable systems through daily practice, failures, and automation.
-</p>
+DevOps-focused learner.
+Working on systems, automation, and reliability.
 
 ---
 
-## 🧠 2026 Mission
-<table>
-<tr>
-<td>🔥</td><td>Daily GitHub contributions (365/365)</td>
-</tr>
-<tr>
-<td>🛠️</td><td>DevOps learning by breaking & fixing real systems</td>
-</tr>
-<tr>
-<td>⚙️</td><td>Automation-first mindset</td>
-</tr>
-<tr>
-<td>📊</td><td>Observability > Guessing</td>
-</tr>
-</table>
+## Focus
+- Linux systems and internals
+- Automation with shell scripting
+- Git & GitHub workflows
+- CI/CD pipelines
+- Containers and orchestration
+- Cloud fundamentals
+- Observability basics
 
 ---
 
-## 🧰 Tech Arsenal
+## Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,githubactions,docker,kubernetes,aws,terraform,prometheus,grafana&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,githubactions,docker,kubernetes,aws,terraform,prometheus,grafana&theme=light" />
 </p>
 
 ---
 
-## 🚦 What This GitHub Is
-<table>
-<tr>
-<td>✅</td><td>DevOps labs & experiments</td>
-</tr>
-<tr>
-<td>✅</td><td>CI/CD pipelines & YAMLs</td>
-</tr>
-<tr>
-<td>✅</td><td>Docker & Kubernetes practice</td>
-</tr>
-<tr>
-<td>✅</td><td>Automation scripts</td>
-</tr>
-<tr>
-<td>❌</td><td>Tutorial copy-paste repos</td>
-</tr>
-</table>
+## How I Work
+- break systems intentionally
+- inspect logs and metrics
+- debug step by step
+- fix root causes
+- document outcomes
 
 ---
 
-## 📈 Current Focus (Live)
-- Linux internals & process behavior  
-- Shell scripting for automation  
-- GitHub Actions pipelines  
-- Docker fundamentals  
-- Cloud basics (AWS – free tier)  
+## What This GitHub Contains
+- DevOps experiments
+- CI/CD pipeline configs
+- Dockerfiles and manifests
+- automation scripts
+- failure notes and fixes
 
 ---
 
-## 🧱 Non-Negotiables
-- ❌ No zero days  
-- ❌ No fake commits  
-- ❌ No tool logos without usage  
-- ✅ One real improvement every day  
+## Rules
+- no zero days
+- no fake commits
+- no copy-paste learning
+- one real improvement daily
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamdevdhanush&show_icons=true&hide_border=true&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-<i>Trying to be reliable in production — not impressive on paper.</i>
-</p>
+Not optimized for appearance.  
+Optimized for reliability.
