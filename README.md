@@ -40,13 +40,5 @@ Working on systems, automation, and reliability.
 
 ---
 
-## Rules
-- no zero days
-- no fake commits
-- no copy-paste learning
-- one real improvement daily
-
----
-
 Not optimized for appearance.  
 Optimized for reliability.
