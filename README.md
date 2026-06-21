@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Dhanush+D+Prabhu;Backend+Developer+%7C+AI+Systems+Builder)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamdevdhanush&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/dhanushdprabhu">
