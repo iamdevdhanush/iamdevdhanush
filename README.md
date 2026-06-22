@@ -214,7 +214,7 @@ A rapid-execution hackathon build — an AI-powered support platform with commun
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=iamdevdhanush&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
 
 </div>
 
