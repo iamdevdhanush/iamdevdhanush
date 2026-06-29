@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Dhanush+D+Prabhu;Backend+Developer+%7C+AI+Systems+Builder)](https://git.io/typing-svg)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamdevdhanush&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/dhanushdprabhu">
@@ -214,7 +216,7 @@ A rapid-execution hackathon build — an AI-powered support platform with commun
 
 <div align="center">
 
-<img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=iamdevdhanush&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -229,6 +231,7 @@ A rapid-execution hackathon build — an AI-powered support platform with commun
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamdevdhanush/iamdevdhanush/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamdevdhanush/iamdevdhanush/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamdevdhanush/iamdevdhanush/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
