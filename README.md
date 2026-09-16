@@ -133,15 +133,33 @@ Built in under 48 hours with AI-assisted workflows and real-time backend service
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamdevdhanush&show_icons=true&hide_border=true&theme=transparent&title_color=63F0C8&icon_color=63F0C8&text_color=C9D1D9"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevdhanush&layout=compact&hide_border=true&theme=transparent&title_color=63F0C8&text_color=C9D1D9"/>
+### 🔥 Current Streak
 
-</div>
+<img src="https://streak-stats.demolab.com?user=iamdevdhanush&theme=github-dark-blue&hide_border=true&background=00000000&ring=F59E0B&fire=F97316&currStreakLabel=F59E0B&stroke=2DD4BF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
 
-<div align="center">
+</td>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=iamdevdhanush&theme=transparent&hide_border=true&stroke=63F0C8&ring=63F0C8&fire=63F0C8&currStreakLabel=63F0C8&sideLabels=C9D1D9&dates=8B949E"/>
+<td width="50%" valign="top">
+
+### 📈 Contribution Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamdevdhanush&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=2DD4BF&text_color=C9D1D9"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamdevdhanush&bg_color=00000000&color=C9D1D9&line=2DD4BF&point=F59E0B&area=true&area_color=2DD4BF&hide_border=true"/>
+
+<br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevdhanush&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9"/>
 
 </div>
 
