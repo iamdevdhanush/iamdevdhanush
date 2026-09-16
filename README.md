@@ -192,11 +192,18 @@ A production-oriented safety intelligence platform that combines **FastAPI**, **
 
 # GitHub Analytics
 
-<box gap=3 align=center>
-  <AsyncImage query="GitHub stats card dark theme username iamdevdhanush" aspectRatio="2:1" width="100%" maxHeight=220/>
-  <AsyncImage query="GitHub streak stats dark theme username iamdevdhanush" aspectRatio="2:1" width="100%" maxHeight=220/>
-  <AsyncImage query="GitHub activity graph dark theme username iamdevdhanush" aspectRatio="2:1" width="100%" maxHeight=220/>
-</box>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?..."/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?..."/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdevdhanush..."/>
+
+</div>
 
 ---
 
