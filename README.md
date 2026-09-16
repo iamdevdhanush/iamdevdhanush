@@ -192,19 +192,23 @@ A production-oriented safety intelligence platform that combines **FastAPI**, **
 
 # GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?..."/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?..."/>
-
-</div>
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdevdhanush..."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:111827,100:63F0C8&height=80&section=header&text=CONSISTENCY%20ENGINE&fontColor=63F0C8&font=JetBrains%20Mono&fontSize=28&animation=fadeIn"/>
+
+<br>
+
+<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdevdhanush&theme=tokyonight&hide_border=true&background=00000000&stroke=63F0C8&ring=63F0C8&fire=63F0C8&currStreakLabel=63F0C8&sideLabels=C9D1D9&dates=8B949E"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamdevdhanush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=63F0C8&icon_color=63F0C8&text_color=C9D1D9"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevdhanush&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=63F0C8&text_color=C9D1D9"/>
 
 </div>
-
 ---
 
 # Open Source
