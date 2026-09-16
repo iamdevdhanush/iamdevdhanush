@@ -1,241 +1,160 @@
+# Hi, I'm Dhanush 👋
 
 <div align="center">
 
-# DHANUSH D PRABHU
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=63F0C8&center=true&vCenter=true&width=720&lines=Backend+Engineer;AI+Systems+Builder;FastAPI+%E2%80%A2+PostGIS+%E2%80%A2+Docker;Building+Production-First+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=63F0C8&center=true&vCenter=true&width=620&lines=Backend+Engineer;AI+Systems+Builder;FastAPI+%E2%80%A2+PostGIS+%E2%80%A2+Docker"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=iamdevdhanush&style=for-the-badge&color=63F0C8&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/iamdevdhanush?style=for-the-badge&color=63F0C8&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/stars/iamdevdhanush?style=for-the-badge&color=63F0C8&labelColor=0D1117"/>
+<a href="https://linkedin.com/in/dhanushdprabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dhanushdprabhu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/iamdevdhanush"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
-
-<p>
-<a href="https://linkedin.com/in/dhanushdprabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/iamdevdhanush"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:dhanushdprabhu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://dhanushdprabhu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:111827,100:63F0C8&height=120&section=header&text=&fontSize=32"/>
 
 </div>
 
 ---
 
-# Engineering Philosophy
+## Building production-first backend systems.
 
-I build **production-first backend systems**, **AI-powered platforms**, and **geospatial intelligence applications**.
+I enjoy building software that feels like an actual product—not just a demo.
 
-Instead of focusing on demo projects, I build systems that resemble real products—modular APIs, containerized deployments, scalable databases, and AI pipelines designed for actual usage.
-
-<table>
-<tr>
-<td width="50%">
-
-### Current Focus
-
-- FastAPI Architecture
-- AI Agent Workflows
-- Geospatial Intelligence
-- Distributed Systems
-- Docker Deployments
-- Open Source
-
-</td>
-
-<td width="50%">
-
-### Core Strengths
-
-- API Design
-- PostgreSQL & PostGIS
-- Docker
-- System Architecture
-- Team Leadership
-- Rapid Execution
-
-</td>
-</tr>
-</table>
+Current interests include **FastAPI services**, **AI agents**, **geospatial intelligence**, **Dockerized deployments**, and **PostgreSQL architecture**.
 
 ---
 
-# Architecture Mindset
+## Engineering Snapshot
+
+|               |                                 |
+| ------------- | ------------------------------- |
+| **Role**      | Backend Engineer                |
+| **Focus**     | AI Systems & Infrastructure     |
+| **Languages** | Python · TypeScript · SQL       |
+| **Backend**   | FastAPI · Flask                 |
+| **Database**  | PostgreSQL · PostGIS            |
+| **DevOps**    | Docker · Linux · GitHub Actions |
+
+---
+
+## Architecture
 
 ```mermaid
 flowchart LR
-A[Frontend] --> B[FastAPI]
-B --> C[(PostgreSQL)]
-B --> D[Gemini AI]
-B --> E[Docker]
-C --> F[PostGIS]
-D --> G[Risk Intelligence]
-F --> H[Live Maps]
+UI[React] --> API[FastAPI]
+API --> DB[(PostgreSQL)]
+API --> GIS[PostGIS]
+API --> AI[Gemini AI]
+AI --> Risk[Risk Engine]
+GIS --> Maps[Live Maps]
 ```
 
 ---
 
-# Flagship Project
+## Featured Work
 
-## Avana V2 — AI Safety Intelligence Platform
+### Avana V2
 
-> National Level AI Hackathon Finalist • Team Leader • Backend Architect
+> AI Safety Intelligence Platform
 
-<AsyncImageGroup query={["Avana V2 safety intelligence dashboard UI","Avana V2 hackathon presentation team"]} layout=carousel/>
+* Multi-agent AI workflow
+* PostGIS risk engine
+* Safe route computation
+* Live incident dashboard
+* FastAPI backend
 
-A production-oriented safety intelligence platform that combines **FastAPI**, **PostGIS**, and **Gemini AI** to analyze incidents, calculate geographic risk scores, and generate actionable intelligence.
+**Stack**
 
-### Features
-
-- AI-powered incident classification
-- Multi-agent intelligence pipeline
-- Risk scoring engine
-- Live heatmaps
-- Safe route computation
-- JWT Authentication
-- Async FastAPI architecture
-
-### Stack
-
-<row gap=1 wrap=wrap align=center>
-  <badge label="FastAPI" color=info/>
-  <badge label="PostGIS"/>
-  <badge label="PostgreSQL"/>
-  <badge label="React"/>
-  <badge label="TypeScript"/>
-  <badge label="Tailwind"/>
-  <badge label="Docker"/>
-  <badge label="Gemini AI"/>
-</row>
+`FastAPI` `PostGIS` `React` `Docker` `Gemini AI`
 
 ---
 
-# Featured Projects
+### GreenOps
 
-<grid columns=2 gap=3><grid-item><box background=surface radius=xl padding=3 gap=2 border=1 clip>
-    <AsyncImage query="GreenOps dashboard monitoring energy platform" aspectRatio="5:3" width="100%" maxHeight=220 radius=lg/>
-    <box gap=1>
-      **GreenOps**
+> Distributed Monitoring Platform
 
-      <caption>Distributed Monitoring Platform</caption>
-    </box>
+A telemetry platform for heartbeat tracking, uptime monitoring, and energy analytics across distributed infrastructure.
 
-    Telemetry system for heartbeat tracking, energy analytics, and infrastructure monitoring.
+**Stack**
 
-    <row gap=1 wrap=wrap><badge label=Python/><badge label=FastAPI/><badge label=Docker/><badge label=PostgreSQL/></row>
-  </box></grid-item><grid-item><box background=surface radius=xl padding=3 gap=2 border=1 clip>
-    <AsyncImage query="Little Heartbeat app UI pregnancy support platform" aspectRatio="5:3" width="100%" maxHeight=220 radius=lg/>
-    <box gap=1>
-      **Little Heartbeat**
-
-      <caption>Hackathon Runner-Up</caption>
-    </box>
-
-    AI-assisted community support platform built within 48 hours.
-
-    <row gap=1 wrap=wrap><badge label=React/><badge label=Express/><badge label=Supabase/><badge label="Gemini AI"/></row>
-  </box></grid-item></grid>
+`Python` `FastAPI` `PostgreSQL` `Docker`
 
 ---
 
-# Achievements
+### Little Heartbeat
 
-<list gap=3 maxMarkerSize=lg marker=bullet><list-item marker={<icon name=trophy color=info size=lg/>}>
-  **Top 5 Finalist**
+> Hackathon Runner-Up
 
-  National Level AI Hackathon — SJBIT Bengaluru
-</list-item><list-item marker={<icon name=medal color=info size=lg/>}>
-  **Runner-Up**
+Built in under 48 hours with AI-assisted workflows and real-time backend services.
 
-  State Level Hackathon — GMIT Davangere
-</list-item><list-item marker={<icon name=award color=info size=lg/>}>
-  **1st Place**
+**Stack**
 
-  CodeNeura Inter-College Tech-a-Thon
-</list-item><list-item marker={<icon name=leaf color=info size=lg/>}>
-  **1st Place**
-
-  Green IT Competition
-</list-item><list-item marker={<icon name=sparkles color=info size=lg/>}>
-  **Round 2**
-
-  EY Techathon
-</list-item></list>
+`React` `Express` `Supabase` `Gemini AI`
 
 ---
 
-# Tech Arsenal
+## Achievements
+
+* 🏆 Top 5 Finalist — National AI Hackathon (SJBIT)
+* 🥈 Runner-Up — GMIT State Hackathon
+* 🥇 CodeNeura Inter-College Winner
+* 🥇 Green IT Competition Winner
+* 🚀 EY Techathon Round 2
+
+---
+
+## Tech Stack
 
 ### Languages
 
-<row gap=1 wrap=wrap align=center><badge label=Python/><badge label=TypeScript/><badge label=JavaScript/><badge label=SQL/><badge label=Bash/></row>
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,bash"/>
+</p>
 
 ### Backend
 
-<row gap=1 wrap=wrap align=center><badge label=FastAPI/><badge label=Flask/><badge label="REST APIs"/><badge label=JWT/></row>
-
-### Databases
-
-<row gap=1 wrap=wrap align=center><badge label=PostgreSQL/><badge label=PostGIS/><badge label=SQLAlchemy/><badge label=Supabase/></row>
-
-### Frontend
-
-<row gap=1 wrap=wrap align=center><badge label=React/><badge label=TypeScript/><badge label=Tailwind/></row>
-
-### DevOps
-
-<row gap=1 wrap=wrap align=center><badge label=Docker/><badge label="GitHub Actions"/><badge label=Linux/><badge label=Git/><badge label=Postman/></row>
-
----
-
-# GitHub Analytics
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:111827,100:63F0C8&height=80&section=header&text=CONSISTENCY%20ENGINE&fontColor=63F0C8&font=JetBrains%20Mono&fontSize=28&animation=fadeIn"/>
-
-<br>
-
-<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdevdhanush&theme=tokyonight&hide_border=true&background=00000000&stroke=63F0C8&ring=63F0C8&fire=63F0C8&currStreakLabel=63F0C8&sideLabels=C9D1D9&dates=8B949E"/>
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamdevdhanush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=63F0C8&icon_color=63F0C8&text_color=C9D1D9"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevdhanush&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=63F0C8&text_color=C9D1D9"/>
-
-</div>
----
-
-# Open Source
-
-I enjoy contributing to projects that improve developer tooling and backend infrastructure.
-
-**Contribution Areas**
-
-- Backend bug fixes
-- API improvements
-- Documentation
-- Testing
-- Performance optimization
-
----
-
-# Let's Build Something
-
-<div align="center">
-
-### Open to collaborations, hackathons, and engineering opportunities.
-
 <p>
-<a href="mailto:dhanushdprabhu@gmail.com"><img src="https://img.shields.io/badge/Email_Me-63F0C8?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-<a href="https://linkedin.com/in/dhanushdprabhu"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:63F0C8,100:0D1117&height=120&section=footer"/>
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,supabase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma"/>
+</p>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamdevdhanush&show_icons=true&hide_border=true&theme=transparent&title_color=63F0C8&icon_color=63F0C8&text_color=C9D1D9"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevdhanush&layout=compact&hide_border=true&theme=transparent&title_color=63F0C8&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=iamdevdhanush&theme=transparent&hide_border=true&stroke=63F0C8&ring=63F0C8&fire=63F0C8&currStreakLabel=63F0C8&sideLabels=C9D1D9&dates=8B949E"/>
+
+</div>
+
+---
+
+## Open Source
+
+I enjoy contributing to backend tooling, API improvements, documentation, and performance optimizations.
+
+---
+
+<div align="center">
+
+**Let's build something meaningful.**
 
 </div>
